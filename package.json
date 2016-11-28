@@ -1,0 +1,19 @@
+{
+  "name": "nine-dot",
+  "version": "0.0.1",
+  "description": "nine-dot react-native-web implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebhskim/nine-dot.git"
+  },
+  "author": "Caleb Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebhskim/nine-dot/issues"
+  },
+  "homepage": "https://github.com/calebhskim/nine-dot#readme"
+}
